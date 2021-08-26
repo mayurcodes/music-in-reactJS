@@ -1,2 +1,2 @@
 # music-in-reactJS
-Created with CodeSandbox
+This app is created using reactJS. It will show the best songs of genre you select.
